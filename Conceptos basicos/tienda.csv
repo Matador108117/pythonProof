@@ -1,0 +1,14 @@
+Producto,Cantidad,Demanda
+Papel,40,Baja Demanda
+Lapiz,32,Baja Demanda
+Borrador,90,Alta Demanda
+Regla,12,Baja Demanda
+Colores,25,Baja Demanda
+Pegamento,50,Baja Demanda
+Tijeras,60,Alta Demanda
+Mochila,16,Baja Demanda
+Cuadernos,80,Alta Demanda
+Carpetas,20,Baja Demanda
+Total,425,indefinido
+Producto mas demandado,90,indefinido
+Producto menos demandado,12,indefinido
